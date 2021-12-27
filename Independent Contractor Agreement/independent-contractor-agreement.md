@@ -4,9 +4,9 @@ INDEPENDENT CONTRACTOR AGREEMENT
  
 
 **THIS INDEPENDENT CONTRACTOR AGREEMENT** (the “*Agreement*”) is entered into as
-of this \__ day of \______, \______, by and between \______________
-(“*Collective*”), and \______________________, a(n)
-\_________________________________ (“*Contractor*”).
+of this _____ day of _________, _________, by and between ______________
+(“*Collective*”), and _____________________, a(n)
+_________________________________ (“*Contractor*”).
 
  
 
@@ -16,7 +16,7 @@ BACKGROUND
 The Collective is a Decentralized Autonomous Organization (”DAO”), and has
 distinct and drastically different governance and management from a traditional
 corporation or company. For legal purposes, the Collective is organized under
-the legal auspices of \____________, a \_________\_ based in \_____________
+the legal auspices of ____________, a __________ based in _____________
 (the “*Legal Wrapper*“). The Collective shall fulfill its legal obligations
 herein using the assistance of the Legal Wrapper, but retains decision-making
 capabilities independent of the Legal Wrapper. Details on decision-making
@@ -25,7 +25,7 @@ procedures are available upon request, but are not included in this Agreement.
  
 
 The Collective’s Mission Statement is:
-\____________________________________________________________.
+____________________________________________________________.
 
  
 
@@ -58,7 +58,7 @@ follows:
 
 3.  *Term.* The term of this Agreement shall commence on the date set forth
     above and shall continue in full force and effect until
-    \_____________________\_ or otherwise terminated by the parties (the
+    ______________________ or otherwise terminated by the parties (the
     “**Term**”) in accordance with the terms hereof. Notwithstanding the
     foregoing, the parties may mutually agree to extend the Term.
 
@@ -392,7 +392,7 @@ follows:
             Contractor who provides the Services hereunder.
 
     11. *Nonsolicitation; Nondisparagement*. For the period commencing on the
-        date hereof and continuing for a period of \_______\_ following the
+        date hereof and continuing for a period of ________ following the
         termination of this Agreement, unless Collective consents in advance in
         writing, Contractor shall not, directly or indirectly through another
         entity,
@@ -460,7 +460,7 @@ follows:
         POSSIBILITY OF SUCH DAMAGES.”
 
     14. *Governing Law; Jurisdiction.* This Agreement shall be governed and
-        construed by the laws of \________________________. Each party hereby
+        construed by the laws of ________________________. Each party hereby
         irrevocably submits to the exclusive jurisdiction of the relevant courts
         for the purposes of any proceedings arising out of this Agreement.
 
@@ -497,24 +497,19 @@ follows:
         party or sent by certified or registered mail, return receipt requested,
         or by facsimile transmission with confirmation, to such party at its
         address set forth below:
+        
+        1.  If to Collective: ________________________________________, Attn:
+            _____________, Facsimilie: __________________
 
-        | If to Collective: |   | \_______________________________________\_    |
-        |                   |   | \_______________________________________\_    |
-        |                   |   | \_______________________________________\_    |
-        |                   |   | Attn: \__________________________________\_   |
-        \                   |   | Facsimile: \______________________________\_  |
-        | If to Contractor: |   | \_______________________________________\_    |
-        |                   |   | \_______________________________________\_    |
-        |                   |   | \_______________________________________\_    |
-        |                   |   | Attn: \__________________________________\_   |
-        |                   |   | Facsimile: \_______________________________\_ |
+        2.  If to Contractor: _______________________________________, Attn:
+            _____________, Facsimilie: __________________
 
     21. *Disputes.* Any disagreement between the Parties regarding, related to,
         or arising from this Agreement (including any disagreement regarding (i)
         any act or omission by a Party, or (ii) the interpretation or
         enforceability of any provision of this Agreement) (a “**Dispute**”)
-        will be determined by arbitration in \___________\_ (an
-        “**Arbitration**”), which will be administered by \__________\_ (or its
+        will be determined by arbitration in ____________ (an
+        “**Arbitration**”), which will be administered by ___________ (or its
         successor organization, an **“Arbitration Administrator”**) pursuant to
         its Arbitration Rules and Procedures. The language used in any
         Arbitration will be English. An Arbitration will be presided over by one
@@ -600,21 +595,21 @@ Legal Wrapper Representative (acting on behalf of Collective):
 
 [____________________________________________]
 
-By: \_____________________\_
+By: ______________________
 
-Name: \_____________________\_
+Name: ______________________
 
-Title: \_____________________\_
+Title: ____________________
 
 CONTRACTOR:
 
 [____________________________________________]
 
-By: \_____________________\_
+By: ______________________
 
-Name: \_____________________\_
+Name: ______________________
 
-Title: \_____________________\_
+Title: ______________________
 
  
 
