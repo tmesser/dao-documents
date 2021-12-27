@@ -518,7 +518,7 @@ follows:
         thirty (30) days of the commencement of the Arbitration, then the
         Arbitrator will be determined in accordance with the applicable rules
         and procedures of the Arbitration Administrator. The Arbitrator will
-        apply the laws relating to the jurisdiction set forth in *(14)*.
+        apply the laws relating to the jurisdiction set forth in *Governing Law; Jurisdiction*.
         Judgment on the award may be entered in any court having jurisdiction.
         This Section will not preclude the Parties from seeking provisional
         remedies in aid of arbitration from a court of appropriate jurisdiction.
@@ -546,7 +546,7 @@ follows:
         governed by the rules of the International Chamber of Commerce then
         prevailing (the “ICC Rules”), wherein the Parties agree that the
         arbitration shall be conducted by an arbitral tribunal consisting of a
-        sole arbitrator, in English, in the jurisdiction set forth in *(14)*.
+        sole arbitrator, in English, in the jurisdiction set forth in *Governing Law; Jurisdiction*.
         Furthermore, if the parties cannot agree on a sole arbitrator within
         thirty (30) days, the appointment of the arbitrator shall be made in
         accordance with ICC Rules.
