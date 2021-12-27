@@ -325,9 +325,12 @@ follows:
 
     7.  *Indemnification.* Contractor agrees to indemnify, defend and hold
         Collective harmless from and against any liability arising out of or in
-        connection with (i) the negligent or willful acts of Contractor in the
-        performance of her obligations hereunder, or (ii) the breach by
-        Contractor of any of her obligations hereunder.
+        connection with
+
+        1.  the negligent or willful acts of Contractor in the performance of
+            her obligations hereunder, or
+
+        2.  the breach by Contractor of any of her obligations hereunder.
 
     8.  *Data Protection.* Contractor shall comply with the privacy and data
         protection terms contained in the Data Processing Addendum, attached
