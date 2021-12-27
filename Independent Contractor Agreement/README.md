@@ -1,20 +1,14 @@
 Independent Contractor Agreements
 =================================
 
- 
-
 These documents are designed to allow DAO collectives to hire independent
 contractors to accomplish various tasks for them much the same way a company
 would. This document has been adapted from an American independent contractor
 agreement and was primarily used in an office or IT setting.
 
- 
-
 **No warrant, attestation, affirmation, or commitment is made to the validity,
 enforceability, or legality of these agreements. Legal opinions provided in this
 repository do not constitute legal advice from the associated attorneys.**
-
- 
 
 Background
 ----------
@@ -28,13 +22,9 @@ is. It is important to establish how the DAO is representing itself legally
 up-front as it sets the tone for formal legal procedure - as well as who will be
 signing the Contractor’s checks.
 
- 
-
 The Mission Statement is a potentially removable blank, but is left in as it is
 considered useful for contextualizing the Services that the Contractor is
 expected to perform.
-
- 
 
 Clause Commentary
 -----------------
@@ -44,8 +34,6 @@ in the Agreement. **The language actually used may not adequately accomplish the
 intent. As before, no warrant, attestation, affirmation, or commitment is made
 to the validity, enforceability, or legality of the Agreement, nor any
 individual clause. Nothing in this commentary constitutes legal advice.**
-
- 
 
 ### Engagement
 
@@ -58,23 +46,17 @@ more multi-jurisdiction. As with everything, it’s up to the user to change som
 of these functions if it’s not acceptable for their circumstances, but the legal
 effects of changes are naturally unknown until they are made and reviewed.
 
- 
-
 ### Compensation
 
 Exhibit B is the Contractor’s pay schedule. Any signing bonuses (along with
 return of said bonuses if certain milestones aren’t hit) can be handled there as
 well.
 
- 
-
 ### Term
 
 **It is important to consider this blank.** The blank may also be deleted and
 replaced with the term ‘in perpetuity’ if the situation calls for it. However,
 the Agreement makes little sense without this determined.
-
- 
 
 ### Independent Contractor Status Controls
 
@@ -85,8 +67,6 @@ comply with Swiss regulations. The second blank is left as flex, in case the
 Contractor is from a jurisdiction that has salient regulations. So if the
 Contractor is Moroccan, and it is important to comply with labor laws in
 Morocco, such jurisdiction(s) can be called out here.
-
- 
 
 The sub-points underneath this clause should also be considered carefully. These
 are traits that tend to characterize independent contractors (in the American
@@ -99,8 +79,6 @@ and just as much as anything else, it may not suit a particular situation for a
 Contractor to not be held to a specific daily work schedule. It is important
 that these points do not conflict with Exhibit A.
 
- 
-
 ### Confidentiality and Non-Disclosure
 
 This is pretty important in the office/IT/technology context that the original
@@ -110,8 +88,6 @@ that the way this is worded, the confidential information is noted as a
 possession of the Collective, not the Legal Wrapper. Ensure your Legal Wrapper
 has the appropriate mandates to prosecute these breaches on behalf of the
 Collective.
-
- 
 
 ### Intellectual Property Rights
 
@@ -123,16 +99,12 @@ could compromise the Collective’s functionality or viability if it’s handled
 incorrectly. This is really intended to just give the Collective some standing
 in matters that affect it.
 
- 
-
 ### Data Protection
 
 Once more, tailored to an office/IT/technology context, but critical in being
 compliant with a lot of laws. Privacy and data breaches are big deals, and
 procedures surrounding remediation and curing them are the only defense
 organizations have against being turned inside out by courts if things go wrong.
-
- 
 
 ### Representations and Warranties
 
@@ -144,8 +116,6 @@ and can fall apart entirely. It is worth seriously considering if, in your
 situation, anything needs to be *added* here, because it is a base assumption
 for the relationship.
 
- 
-
 ### Taxes
 
 **It is important to review and fully understand this section before giving it
@@ -155,16 +125,12 @@ which is something independent contractors typically do. This is an important
 section, however, so make sure that it does what you need it to do for your
 situation.
 
- 
-
 ### Nonsolicitation and Nondisparagement
 
 **It is important to consider the blank here.** This is intended to be a fairly
 standard clause to discourage poaching and bad-mouthing. These clauses may have
 imposed limitations depending on jurisdictions that make certain answers to this
 blank unenforceable.
-
- 
 
 ### Termination
 
@@ -174,8 +140,6 @@ ways. This can mean that your Collective will have to pay a last paycheck beyond
 the day that it actually terminates a Contractor. There are with-cause clauses
 for immediate termination, as well.
 
- 
-
 ### Governing Law; Jurisdiction
 
 **It is important to consider the blank here.** The jurisdictions noted in
@@ -183,16 +147,12 @@ for immediate termination, as well.
 where the ‘rubber hits the road’, as it were. Disputes and resolutions will be
 primarily handled through the answer to this blank.
 
- 
-
 ### Notice
 
 **It is important to consider the blanks here.** These registrations are used
 for official notifications, which are currently used by the Data Protection
 Addendum and could be used by whatever other internal procedures your Collective
 has.
-
- 
 
 ### Disputes
 
@@ -205,8 +165,6 @@ respected presence there. The given clauses also give fallbacks for if the
 jurisdiction is not valid somehow. These should be reviewed and changed if it
 causes any pain with the Collective.
 
- 
-
 ### Signature Block
 
 In many collectives, one person cannot sign for the Collective; that is part of
@@ -215,8 +173,6 @@ as a unit. This fits awkwardly into the traditional legal world, where the
 signature is the standard unit of trust. Consequently, a representative of the
 Legal Wrapper is expected to sign, and however the Legal Wrapper gains its
 mandate to sign is a matter for itself and the Collective.
-
- 
 
 Data Protection Addendum
 ------------------------
