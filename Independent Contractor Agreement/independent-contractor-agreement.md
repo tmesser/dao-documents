@@ -597,7 +597,7 @@ follows:
 **IN WITNESS WHEREOF,** the parties have caused this Independent Contractor
 Agreement to be executed as of the date first written above.
 
-Collective:
+Legal Wrapper Representative (acting on behalf of Collective):
 
 [____________________________________________]
 
