@@ -1,18 +1,12 @@
 DAO Documents
 =============
 
- 
-
 This repository is for the collection of documents to allow DAOs to do business
 in a maximally compliant and vetted way.
-
- 
 
 **No warrant, attestation, affirmation, or commitment is made to the validity,
 enforceability, or legality of these agreements. Legal opinions provided in this
 repository do not constitute legal advice from the associated attorneys.**
-
- 
 
 Purpose 
 --------
@@ -28,7 +22,3 @@ is the responsibility of whomever uses these documents to fully understand and
 take ownership of the agreements they forge using these documents. **This
 repository is intended as a resource for the public good and all documents and
 documentation are provided ‘as-is’.**
-
- 
-
- 
