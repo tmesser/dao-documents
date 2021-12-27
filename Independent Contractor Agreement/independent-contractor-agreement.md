@@ -4,9 +4,9 @@ INDEPENDENT CONTRACTOR AGREEMENT
  
 
 **THIS INDEPENDENT CONTRACTOR AGREEMENT** (the “*Agreement*”) is entered into as
-of this \_\_ day of *\_*\_____, \______, by and between \_____________\_
+of this \__ day of \______, \______, by and between \______________
 (“*Collective*”), and \______________________, a(n)
-\________________________________\_ (“*Contractor*”).
+\_________________________________ (“*Contractor*”).
 
  
 
@@ -16,7 +16,7 @@ BACKGROUND
 The Collective is a Decentralized Autonomous Organization (”DAO”), and has
 distinct and drastically different governance and management from a traditional
 corporation or company. For legal purposes, the Collective is organized under
-the legal auspices of \____________, a \_________\_ based in \____________\_
+the legal auspices of \____________, a \_________\_ based in \_____________
 (the “*Legal Wrapper*“). The Collective shall fulfill its legal obligations
 herein using the assistance of the Legal Wrapper, but retains decision-making
 capabilities independent of the Legal Wrapper. Details on decision-making
