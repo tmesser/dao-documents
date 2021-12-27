@@ -1,14 +1,10 @@
 INDEPENDENT CONTRACTOR AGREEMENT
 ================================
 
- 
-
 **THIS INDEPENDENT CONTRACTOR AGREEMENT** (the “*Agreement*”) is entered into as
 of this _____ day of _________, _________, by and between ______________
 (“*Collective*”), and _____________________, a(n)
 _________________________________ (“*Contractor*”).
-
- 
 
 BACKGROUND
 ==========
@@ -22,19 +18,13 @@ herein using the assistance of the Legal Wrapper, but retains decision-making
 capabilities independent of the Legal Wrapper. Details on decision-making
 procedures are available upon request, but are not included in this Agreement.
 
- 
-
 The Collective’s Mission Statement is:
 ____________________________________________________________.
-
- 
 
 Collective desires to engage Contractor to perform certain services for
 Collective as an independent contractor. Collective and Contractor intend this
 Agreement to govern each of their rights and obligations with respect to such
 engagement.
-
- 
 
 AGREEMENT
 =========
@@ -42,8 +32,6 @@ AGREEMENT
 **NOW, THEREFORE,** in consideration of the mutual promises and covenants
 contained herein, and intending to be legally bound hereby, the parties agree as
 follows:
-
- 
 
 1.  *Engagement; Scope of Services.* Subject to the terms and conditions set
     forth in this Agreement, Collective hereby engages Contractor to perform the
@@ -586,8 +574,6 @@ follows:
         to the benefit of and be binding upon the parties and their legal
         representatives, heirs, successors, and assigns.
 
- 
-
 **IN WITNESS WHEREOF,** the parties have caused this Independent Contractor
 Agreement to be executed as of the date first written above.
 
@@ -611,42 +597,16 @@ Name: ______________________
 
 Title: ______________________
 
- 
-
- 
-
- 
-
- 
-
 EXHIBIT A: SERVICES
 ===================
 
- 
-
- 
-
- 
-
- 
-
- 
 
 EXHIBIT B: FEES
 ===============
 
- 
-
- 
-
- 
-
- 
 
 EXHIBIT C: DATA PROTECTION ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT
 =======================================================================
-
- 
 
 1.  **Definitions**
 
