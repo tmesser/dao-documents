@@ -13,8 +13,19 @@ of this \_\_ day of *\_*\_____, \______, by and between \_____________\_
 BACKGROUND
 ==========
 
-Collective’s Mission Statement is:
-\_____________________________________________________________.
+The Collective is a Decentralized Autonomous Organization (”DAO”), and has
+distinct and drastically different governance and management from a traditional
+corporation or company. For legal purposes, the Collective is organized under
+the legal auspices of \____________, a \_________\_ based in \____________\_
+(the “*Legal Wrapper*“). The Collective shall fulfill its legal obligations
+herein using the assistance of the Legal Wrapper, but retains decision-making
+capabilities independent of the Legal Wrapper. Details on decision-making
+procedures are available upon request, but are not included in this Agreement.
+
+ 
+
+The Collective’s Mission Statement is:
+\____________________________________________________________.
 
  
 
@@ -87,20 +98,17 @@ follows:
 
         3.  Contractor shall not be required to undergo any training;
 
-        4.  Contractor shall not be required to report internally to a
-            Collective supervisor;
-
-        5.  Contractor shall be responsible for providing their own supplies and
+        4.  Contractor shall be responsible for providing their own supplies and
             tools to execute obligations under this Agreement;
 
-        6.  Contractor shall not be eligible for any employment type benefits
+        5.  Contractor shall not be eligible for any employment type benefits
             typically befitting an employer/employee arrangement, including, but
             not limited to, a pension plan, insurance and vacation pay, or any
             other payments outside of agreed payments;
 
-        7.  Collective shall not reimburse Contractor for incurred costs;
+        6.  Collective shall not reimburse Contractor for incurred costs;
 
-        8.  Contractor shall not be permitted or otherwise authorized to perform
+        7.  Contractor shall not be permitted or otherwise authorized to perform
             any key aspect of Collective business;
 
     5.  **Confidentiality and Non-Disclosure**
