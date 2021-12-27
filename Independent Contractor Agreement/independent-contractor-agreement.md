@@ -454,7 +454,7 @@ follows:
             shall destroy any data related to any deliverables under this
             Agreement, whether in digital or hard copy.
 
-    13. **LIMITATION OF LIABILITY.** IN NO EVENT SHALL Collective BE LIABLE FOR
+    13. **LIMITATION OF LIABILITY.** IN NO EVENT SHALL COLLECTIVE BE LIABLE FOR
         ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND
         IN CONNECTION WITH THIS AGREEMENT, EVEN IF INFORMED IN ADVANCE OF THE
         POSSIBILITY OF SUCH DAMAGES.”
