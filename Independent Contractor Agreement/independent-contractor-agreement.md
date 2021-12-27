@@ -394,12 +394,13 @@ follows:
         writing, Contractor shall not, directly or indirectly through another
         entity,
 
-        1.  induce or attempt to induce any employee of Collective to leave the
-            employ of Collective, or in any way interfere with the relationship
-            between Collective and any employee thereof,
+        1.  induce or attempt to induce any contractor or employee of Collective
+            to leave the employ of Collective, or in any way interfere with the
+            relationship between Collective and any contractor or employee
+            thereof,
 
-        2.  hire any person, who was an employee of Collective at any time
-            during the Term,
+        2.  hire any person, who was a contractor or employee of Collective at
+            any time during the Term,
 
         3.  induce or attempt to induce any customer, supplier, subcontractor,
             licensee, licensor, franchisee or other business relation of
@@ -409,12 +410,12 @@ follows:
             (including, without limitation, making any negative statements or
             communications about Collective), or
 
-        4.  service (except in the capacity as an employee of Collective) any
-            customer, licensee, agent or franchisee of Collective who was a
-            customer, licensee, agent or franchisee of Collective at any time
-            during the Term. At all times after the date hereof, Contractor
-            shall not disparage Collective or any of its shareholders,
-            directors, officers, employees, consultants or agents.
+        4.  service (except in the capacity as a contractor or employee of
+            Collective) any customer, licensee, agent or franchisee of
+            Collective who was a customer, licensee, agent or franchisee of
+            Collective at any time during the Term. At all times after the date
+            hereof, Contractor shall not disparage Collective or any of the
+            individuals involved with the Collective.
 
     12. *Termination.*
 
@@ -674,8 +675,8 @@ EXHIBIT C: DATA PROTECTION ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT
     5.  “Personal Information” means any information that relates to , or may
         otherwise be used to, identify an identified or identifiable individual.
         Such individuals may include, but are not limited to, Collective’s
-        customers, consumers, employees, contractors or business partners. Such
-        information may include, but is not limited to, names, contact
+        affiliates, customers, consumers, employees, contractors or partners.
+        Such information may include, but is not limited to, names, contact
         information, titles, identification numbers, account numbers and other
         data deemed to be personal information under applicable law.
 
@@ -683,7 +684,7 @@ EXHIBIT C: DATA PROTECTION ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT
         Information, sensitive business, financial and technical information,
         communications regarding legal matters and other information not
         intended for public dissemination that pertains to Collective and its
-        employees, customers, consumers, contractors and business partners.
+        affiliates, employees, customers, consumers, contractors and partners.
 
 2.  **Data Privacy Requirements**
 
@@ -800,10 +801,10 @@ EXHIBIT C: DATA PROTECTION ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT
         1.  In the event of an Incident, Supplier shall immediately coordinate
             with Collective regarding the response to, and investigation of, the
             Incident, and cooperate fully with Collective, including
-            facilitating interviews with employees and other parties, making
-            available all relevant records, logs, files, data reporting and
-            other materials, and providing Collective with physical access to
-            the facilities affected.
+            facilitating interviews with contractors or employees and other
+            parties, making available all relevant records, logs, files, data
+            reporting and other materials, and providing Collective with
+            physical access to the facilities affected.
 
         2.  Unless required by law, Supplier shall not inform any third party of
             any Incident without first obtaining Collective’s prior written
